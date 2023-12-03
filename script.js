@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Aaaaaaaaa, Aku kangen kamu juga Cantikkk:>";
+  question.innerHTML = "YAHHH kamu ga kangen aku yaa, padahal aku kangen banget sama kamu :(";
   gif.src =
     "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp";
 });
